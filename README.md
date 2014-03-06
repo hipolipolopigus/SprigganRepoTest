@@ -3,4 +3,4 @@ SprigganRepoTest
 
 Testing a new mod management system.
 
-spriggan://github/hipolipolopigus/SprigganRepoTest
+[Spriggan Test Link](spriggan://github/hipolipolopigus/SprigganRepoTest)
