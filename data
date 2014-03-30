@@ -3,5 +3,6 @@
 	"installIgnore" : [],
 	"author" : "Hipolipolopigus",
 	"wikiRoot" : "https://raw.github.com/Hipolipolopigus/SprigganRepoTest/wiki/",
-	"tags" : ["hidden"]
+	"tags" : ["hidden"],
+	"readme" : "https://github.com/hipolipolopigus/SprigganRepoTest/blob/master/README.md"
 }
